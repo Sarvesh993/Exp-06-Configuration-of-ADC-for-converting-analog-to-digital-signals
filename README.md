@@ -1,8 +1,8 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
 
-Name :	Ashwin Raaj.S
+Name : P.Sarveshvaran
 
-Roll no: 212221230008
+Roll no: 212221230090
 
   
 ## Aim: To configure internal ADC for   LPC2148 ARM 7 and write a code for displaying the values varying from 0v to 3.3v to its equivalent digital values 
